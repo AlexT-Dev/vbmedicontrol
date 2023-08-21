@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ViewLayer/1.0.0": {
+        "dependencies": {
+          "BussinessLayer": "1.0.0",
+          "EntityLayer": "1.0.0"
+        },
+        "runtime": {
+          "ViewLayer.dll": {}
+        }
+      },
+      "BussinessLayer/1.0.0": {
+        "dependencies": {
+          "DataLayer": "1.0.0",
+          "EntityLayer": "1.0.0"
+        },
+        "runtime": {
+          "BussinessLayer.dll": {}
+        }
+      },
+      "DataLayer/1.0.0": {
+        "dependencies": {
+          "EntityLayer": "1.0.0"
+        },
+        "runtime": {
+          "DataLayer.dll": {}
+        }
+      },
+      "EntityLayer/1.0.0": {
+        "runtime": {
+          "EntityLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ViewLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BussinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

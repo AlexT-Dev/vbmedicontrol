@@ -1,0 +1,17 @@
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\bin\Debug\net6.0-windows\BussinessLayer.deps.json
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\bin\Debug\net6.0-windows\BussinessLayer.dll
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\bin\Debug\net6.0-windows\BussinessLayer.pdb
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\bin\Debug\net6.0-windows\DataLayer.dll
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\bin\Debug\net6.0-windows\EntityLayer.dll
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\bin\Debug\net6.0-windows\EntityLayer.pdb
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\obj\Debug\net6.0-windows\BussinessLayer.vbproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\obj\Debug\net6.0-windows\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\obj\Debug\net6.0-windows\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\obj\Debug\net6.0-windows\BussinessLayer.AssemblyInfo.vb
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\obj\Debug\net6.0-windows\BussinessLayer.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\obj\Debug\net6.0-windows\BussinessLayer.vbproj.CopyComplete
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\obj\Debug\net6.0-windows\BussinessLayer.dll
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\obj\Debug\net6.0-windows\refint\BussinessLayer.dll
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\obj\Debug\net6.0-windows\BussinessLayer.pdb
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\BussinessLayer\obj\Debug\net6.0-windows\ref\BussinessLayer.dll

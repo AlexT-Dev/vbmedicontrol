@@ -1,0 +1,15 @@
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\bin\Debug\net6.0-windows\DataLayer.deps.json
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\bin\Debug\net6.0-windows\DataLayer.dll
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\bin\Debug\net6.0-windows\EntityLayer.dll
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\bin\Debug\net6.0-windows\EntityLayer.pdb
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\obj\Debug\net6.0-windows\DataLayer.vbproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\obj\Debug\net6.0-windows\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\obj\Debug\net6.0-windows\DataLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\obj\Debug\net6.0-windows\DataLayer.AssemblyInfo.vb
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\obj\Debug\net6.0-windows\DataLayer.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\obj\Debug\net6.0-windows\DataLayer.vbproj.CopyComplete
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\obj\Debug\net6.0-windows\DataLayer.dll
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\obj\Debug\net6.0-windows\refint\DataLayer.dll
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\obj\Debug\net6.0-windows\DataLayer.pdb
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\DataLayer\obj\Debug\net6.0-windows\ref\DataLayer.dll

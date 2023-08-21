@@ -1,0 +1,11 @@
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\EntityLayer\bin\Debug\net6.0-windows\EntityLayer.deps.json
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\EntityLayer\bin\Debug\net6.0-windows\EntityLayer.dll
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\EntityLayer\bin\Debug\net6.0-windows\EntityLayer.pdb
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\EntityLayer\obj\Debug\net6.0-windows\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\EntityLayer\obj\Debug\net6.0-windows\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\EntityLayer\obj\Debug\net6.0-windows\EntityLayer.AssemblyInfo.vb
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\EntityLayer\obj\Debug\net6.0-windows\EntityLayer.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\EntityLayer\obj\Debug\net6.0-windows\EntityLayer.dll
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\EntityLayer\obj\Debug\net6.0-windows\refint\EntityLayer.dll
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\EntityLayer\obj\Debug\net6.0-windows\EntityLayer.pdb
+C:\Users\lenovo\Documents\Visual Basic\medicontrol\EntityLayer\obj\Debug\net6.0-windows\ref\EntityLayer.dll

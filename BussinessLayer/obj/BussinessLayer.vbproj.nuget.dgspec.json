@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\BussinessLayer\\BussinessLayer.vbproj": {}
+    "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\BussinessLayer\\BussinessLayer.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\BussinessLayer\\BussinessLayer.vbproj": {
+    "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\BussinessLayer\\BussinessLayer.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\BussinessLayer\\BussinessLayer.vbproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\BussinessLayer\\BussinessLayer.vbproj",
         "projectName": "BussinessLayer",
-        "projectPath": "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\BussinessLayer\\BussinessLayer.vbproj",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\BussinessLayer\\BussinessLayer.vbproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\BussinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\BussinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\DataLayer\\DataLayer.vbproj": {
-                "projectPath": "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\DataLayer\\DataLayer.vbproj"
+              "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\DataLayer\\DataLayer.vbproj": {
+                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\DataLayer\\DataLayer.vbproj"
               },
-              "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\EntityLayer\\EntityLayer.vbproj": {
-                "projectPath": "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\EntityLayer\\EntityLayer.vbproj"
+              "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\EntityLayer\\EntityLayer.vbproj": {
+                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\EntityLayer\\EntityLayer.vbproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\DataLayer\\DataLayer.vbproj": {
+    "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\DataLayer\\DataLayer.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\DataLayer\\DataLayer.vbproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\DataLayer\\DataLayer.vbproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\DataLayer\\DataLayer.vbproj",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\DataLayer\\DataLayer.vbproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -101,8 +101,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\EntityLayer\\EntityLayer.vbproj": {
-                "projectPath": "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\EntityLayer\\EntityLayer.vbproj"
+              "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\EntityLayer\\EntityLayer.vbproj": {
+                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\EntityLayer\\EntityLayer.vbproj"
               }
             }
           }
@@ -145,14 +145,14 @@
         }
       }
     },
-    "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\EntityLayer\\EntityLayer.vbproj": {
+    "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\EntityLayer\\EntityLayer.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\EntityLayer\\EntityLayer.vbproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\EntityLayer\\EntityLayer.vbproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\EntityLayer\\EntityLayer.vbproj",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\EntityLayer\\EntityLayer.vbproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Documents\\Visual Basic\\medicontrol\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\vbmedicontrol\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
